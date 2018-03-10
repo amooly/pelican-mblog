@@ -96,6 +96,9 @@ ENV/
 
 # mypy
 .mypy_cache/
+<<<<<<< HEAD
 
 # pelican
 output/
+=======
+>>>>>>> f115383160b26e0aa531578b71fbb882cfebcf7c
