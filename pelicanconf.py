@@ -8,6 +8,7 @@ SITETITLE = 'Mooly'
 SITESUBTITLE = '一只崇洋媚外的代码狗'
 SITEURL = ''
 COPYRIGHT_NAME = 'amooly'
+FAVICON = 'favicon.ico'
 
 USE_LESS = True
 MAIN_MENU =True
@@ -27,8 +28,8 @@ AUTHOR_FEED_RSS = None
 
 # Blogroll
 MENUITEMS = (('首页', '/'),
-         ('列表', '/arhives.html'),
-         ('归档', 'http://jinja.pocoo.org/'),
+         ('列表', '/archives.html'),
+         ('归档', '/categories.html'),
          ('关于', '/author/amooly.html'),)
 
 # Social widget
